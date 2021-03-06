@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "609824788629",
+    "project_id": "vcom-2b01c",
+    "storage_bucket": "vcom-2b01c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609824788629:android:05d559134e39ab74c78b9c",
+        "android_client_info": {
+          "package_name": "com.flutter.v_com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609824788629-ec3enr9unkpip5fh4f97d2533d26qvgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzctVqJnKpE1kyvxALNdu5LJkNT5y5LRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609824788629-ec3enr9unkpip5fh4f97d2533d26qvgv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
